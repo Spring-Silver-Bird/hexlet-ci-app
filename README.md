@@ -35,4 +35,4 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-[![hexlet-ci-app](https://github.com/Spring-Silver-Bird/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml/badge.svg)](https://github.com/Spring-Silver-Bird/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml)
+[![build-and-tests](https://github.com/Spring-Silver-Bird/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml/badge.svg)](https://github.com/Spring-Silver-Bird/hexlet-ci-app/actions/workflows/hexlet-ci-app.yml)
